@@ -1,0 +1,1 @@
+/home/ken/Work/Near/phoenix_bond/target/wasm32-unknown-unknown/release/libphoenix_bond.rlib: /home/ken/Work/Near/phoenix_bond/src/constants.rs /home/ken/Work/Near/phoenix_bond/src/errors.rs /home/ken/Work/Near/phoenix_bond/src/lib.rs /home/ken/Work/Near/phoenix_bond/src/state.rs

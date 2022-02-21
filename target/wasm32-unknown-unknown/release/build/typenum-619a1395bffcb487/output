@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ken/Work/Near/phoenix_bond/target/wasm32-unknown-unknown/release/build/typenum-619a1395bffcb487/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ken/Work/Near/phoenix_bond/target/wasm32-unknown-unknown/release/build/typenum-619a1395bffcb487/out/op.rs

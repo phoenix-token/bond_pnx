@@ -1,0 +1,10 @@
+/home/ken/Work/Near/phoenix_bond/target/debug/deps/borsh_schema_derive_internal-40d07ef60f46a592.rmeta: /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs
+
+/home/ken/Work/Near/phoenix_bond/target/debug/deps/libborsh_schema_derive_internal-40d07ef60f46a592.rlib: /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs
+
+/home/ken/Work/Near/phoenix_bond/target/debug/deps/borsh_schema_derive_internal-40d07ef60f46a592.d: /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs /home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs
+
+/home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs:
+/home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs:
+/home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs:
+/home/ken/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs:
